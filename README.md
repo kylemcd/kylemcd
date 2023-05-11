@@ -4,7 +4,7 @@ During my day to day, I run the engineering organization over at [@foxtrotco](ht
 
 🚀 Open Source Work: 
 
-dotfiles (neovim, oh-my-zsh, tmux)](https://github.com/kylemcd.com/dotfiles)
+[dotfiles (neovim, oh-my-zsh, tmux)](https://github.com/kylemcd.com/dotfiles)
    - This is where I keep all my config (that changes quite frequently) for my local tooling.
    
 [personal-site](https://github.com/kylemcd/personal-site) - [kylemcd.com](https://kylemcd.com)
