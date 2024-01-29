@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kyle McDonald
 
-During my day to day, I run the engineering organization over at [@foxtrotco](https://github.com/foxtrotco). I primarily focus on the front-end, more specifically React, but I like to go down lots of rabbit holes. 
+During my day to day, I write software over at [Knock](https://github.com/knocklabs). I primarily focus on the front-end, more specifically React, but I like to go down lots of rabbit holes. 
 
 #### 🚀 Open Source Work
 
