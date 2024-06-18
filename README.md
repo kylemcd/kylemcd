@@ -4,6 +4,9 @@ During my day to day, I write software over at [Knock](https://github.com/knockl
 
 #### 🚀 Open Source Work
 
+[Telegraph Design System](https://github.com/knocklabs/telegraph)
+The open source design system used at [Knock](https://knock.app)
+
 [dotfiles (neovim, oh-my-zsh, tmux)](https://github.com/kylemcd.com/dotfiles)
 This is where I keep all my config (that changes quite frequently) for my local tooling.
    
@@ -22,10 +25,3 @@ A little wrapper around [Segment](https://segment.com) that focuses on making DX
 [@kpm-tools/shortcut-action](https://github.com/kpm-tools/shortcut-action)
 A GitHub action to granularly move [shortcut](https://shortcut.com) stories based on Git/GitHub events.
 
-
-
-
-
-#### 🔨 Currently Building
-
-[InterUnit](https://github.com/interunit/ui) - A cross-platform UI library for React and React Native, my goal is to create high-quality, super composable components. As I approach v1, my primary focus is on populating the component library. After reaching v1, I plan to broaded the scope of InterUnit.
