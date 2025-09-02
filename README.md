@@ -7,7 +7,7 @@ During my day to day, I write software over at [Knock](https://github.com/knockl
 [Telegraph Design System](https://github.com/knocklabs/telegraph)
 The open source design system used at [Knock](https://knock.app)
 
-[.computer](https://github.com/kylemcd.com/.computer)
+[.computer](https://github.com/kylemcd/.computer)
 Personal macOS bootstrap that turns a fresh Mac into my dev environment with one command. Uses Nix flakes with nix-darwin and Home Manager to install apps and CLI tools, apply dotfiles, and set sensible macOS defaults.
 
 [personal-site](https://github.com/kylemcd/personal-site) - [kylemcd.com](https://kylemcd.com)
